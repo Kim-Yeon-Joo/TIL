@@ -9,7 +9,11 @@ git는 분산버전관리 시스템으로서(commit 기록만 잘 남겨두면 �
 
   ```git config global user.name " " ```
 
-  
+- gitignore
+
+  git이 관리하는 것을 무시하는것
+
+  gitignore을 쓰는 이유:숨긴코드가 담긴 파일들이 생겨나게됨,
 
 
 
